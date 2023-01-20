@@ -20,11 +20,11 @@ time.sleep(2)
 
 emailInput = driver.find_element(By.XPATH, '//*[@id="session_key"]')
 emailInput.click()
-emailInput.send_keys(config('EMAIL'))
+emailInput.send_keys(config('LINKEDIN_EMAIL'))
 
 passwordInput = driver.find_element(By.XPATH, '//*[@id="session_password"]')
 passwordInput.click()
-passwordInput.send_keys(config('PASSWORD'))
+passwordInput.send_keys(config('LINKEDIN_PASSWORD'))
 
 time.sleep(2)
 submitBtn = driver.find_element(By.XPATH, '//*[@id="main-content"]/section[1]/div/div/form/button').click()
