@@ -17,7 +17,7 @@ This project uses Selenium and Python to automate tasks in a web browser.
 ```
 
 2. Install the required packages
-3. Update the path of the webdriver in the script
+3. Create .env file to store login credentials (if any)
 4. Run the script
 
 ## Features
