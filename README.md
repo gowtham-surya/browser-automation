@@ -12,9 +12,9 @@ This project uses Selenium and Python to automate tasks in a web browser.
 
 1. Clone the repository
 
-- ```bash
+```bash
   git clone https://github.com/gowtham-surya/browser-automation.git
-  ```
+```
 
 2. Install the required packages
 3. Update the path of the webdriver in the script
