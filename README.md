@@ -2,6 +2,10 @@
 
 This project uses Selenium and Python to automate tasks in a web browser.
 
+## Preview
+
+https://user-images.githubusercontent.com/103630404/213704248-d9b3380d-3f68-490d-8a08-d55cdd5447aa.mp4
+
 ## Requirements
 
 - Python 3
