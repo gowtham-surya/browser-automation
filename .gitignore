@@ -3,3 +3,6 @@ node_modules
 
 #ignore environment variables
 .env
+
+#ignore excel files
+.xlsx
